@@ -11,8 +11,12 @@ body {
 h1 {
   font-size: 75px;
   font-family: Arial, Helvetica, sans-serif;
+<<<<<<< HEAD
     color: rgb(238, 181, 24);
 
     text-decoration: underline;
 
 }
+=======
+}
+>>>>>>> dd2f30ca3eafec667415ba8e2d8c693b05e18d1f
